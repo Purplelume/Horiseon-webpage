@@ -14,4 +14,4 @@ This project is a code refactor that is done to make the code more accessible an
 ![screenshot of index.html](./assets/images/cattura.PNG)
 
 ### Link of deployed application
-[Link to the deployed website]()
+[Link to the deployed website](https://purplelume.github.io/Horiseon-webpage/)
